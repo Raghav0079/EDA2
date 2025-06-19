@@ -1,8 +1,19 @@
 # Advanced Data Analysis Repo
 
 This repository contains an in-depth analysis of retail data using various analytical tools and techniques.
-
+## File Structure
+```
+📦EDA2
+ ┣ 📂Notebooks
+ ┃ ┣ 📜EDA_Retail.ipynb
+ ┃ ┗ 📜Feature_Engineering.ipynb
+ ┣ 📂Dashboards
+ ┃ ┗ 📜Retail_Analytics.pbix
+ ┗ 📜README.md
+```
 ## Contents
+
+
 
 ### Jupyter Notebooks
 1. **EDA_Retail.ipynb**
